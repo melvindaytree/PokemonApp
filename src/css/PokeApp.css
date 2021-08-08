@@ -1,0 +1,16 @@
+ul {
+    list-style-type: none;
+    }
+
+.container {
+    grid-template-columns: 100px 50px 100px;
+    grid-template-rows: 80px auto 80px; 
+    column-gap: 10px;
+    row-gap: 15px;
+  }
+
+
+
+  .poketeammargin {
+      margin-top: 20px;
+  }

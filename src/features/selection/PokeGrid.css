@@ -1,0 +1,63 @@
+.pokecell {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    float: left;
+    margin: 10px 10px 10px 10px;
+    border-radius: 200px;
+    background-image: linear-gradient(lightgreen, darkgreen);
+}
+
+.pokegridbox {
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    border-radius: 100px;
+
+}
+
+.linkpokeheader{
+    text-decoration: none;
+} 
+
+.pokeheader {
+    text-align: center;
+    margin-top: 40px;
+    text-transform: capitalize;
+    color: darkgreen;
+    font-size: 20px;
+}
+
+.addbutton {
+    border-radius: 122px;
+    height: 50px;
+    background-color: lightblue;
+    border: 2px solid darkgreen;
+    transform: translate(93%, 24%);
+}
+
+
+.pokegrid {
+    width: 250px;
+    height: 250px;
+    border: 2px solid black;
+    float: left;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(blue, lightblue);
+    background-color: lightblue;
+   
+}
+
+.pokegridinbox {
+   
+    text-align: center;
+}
+
+.pokegridboxtitle {
+    text-transform: capitalize;
+}
