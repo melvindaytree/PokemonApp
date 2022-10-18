@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PokemonApp](README.md)
+* [Pokemon App](README.md)
 
 ## 👁 Poke Group
 
