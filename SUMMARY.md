@@ -5,6 +5,7 @@
 ## 👁 Poke Group
 
 * [Pokemon here](poke-group/pokemon-here.md)
+* [Page 1](poke-group/page-1.md)
 
 ## 🥰 Front End Pokemon
 
@@ -18,6 +19,8 @@
     * [Squirtle](front-end-pokemon/the-starters/blastoise/squirtle.md)
   * [Venusaur](front-end-pokemon/the-starters/venusaur/README.md)
     * [Bulbasaur](front-end-pokemon/the-starters/venusaur/bulbasaur.md)
+* [Release Process](front-end-pokemon/release-process/README.md)
+  * [Mobile Release Process short version](front-end-pokemon/release-process/mobile-release-process-short-version.md)
 
 ## 🔙 Back End Pokemon
 
